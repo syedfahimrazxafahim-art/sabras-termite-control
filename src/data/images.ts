@@ -1,0 +1,77 @@
+export const IMAGES = {
+  logo: "https://res.cloudinary.com/fzobzdco/image/upload/v1788553495/LOGO99880077.jpg",
+  servicePerimeter: "https://res.cloudinary.com/fzobzdco/image/upload/v1788553803/bghhjuiuiyklklpp.jpg",
+  trailerBanner: "https://res.cloudinary.com/fzobzdco/image/upload/v1788553967/background_img23456.png",
+  flyerShield: "https://res.cloudinary.com/fzobzdco/image/upload/v1788553537/gpt12.png",
+  warehouseTech: "https://res.cloudinary.com/fzobzdco/image/upload/v1788553485/mkojihugyft.jpg",
+  twoTechsHazmat: "https://res.cloudinary.com/fzobzdco/image/upload/v1788553781/fretewtfsdgdhgfs.jpg",
+  termites: "https://res.cloudinary.com/fzobzdco/image/upload/v1788553787/dgfdgdfgerwrwr43trftg.jpg",
+  roaches: "https://res.cloudinary.com/fzobzdco/image/upload/v1788553783/fdggbhiythrgfdsdfghj.jpg",
+  cricket: "https://res.cloudinary.com/fzobzdco/image/upload/v1788553799/bhuhygyftdrseaxfsfghjhg.jpg",
+};
+
+export const ALL_CUSTOMER_IMAGES = [
+  {
+    id: "img-service",
+    url: IMAGES.servicePerimeter,
+    title: "Field Service & Perimeter Barrier Application",
+    category: "Field Treatment",
+    desc: "Targeted exterior foundation and perimeter treatment protecting Phoenix structures from desert pests.",
+  },
+  {
+    id: "img-logo-asset",
+    url: IMAGES.logo,
+    title: "Sabra's Termite Pest Weed Control Official Logo",
+    category: "Official Branding",
+    desc: "Official business logo emblem for Sabra's Termite Pest Weed Control in Phoenix, Arizona (Lic. #9110).",
+  },
+  {
+    id: "img-banner",
+    url: IMAGES.trailerBanner,
+    title: "Sabra's Service Trailer & Team Fleet",
+    category: "Fleet & Branding",
+    desc: "Official mobile treatment rig and team banner showcasing comprehensive desert pest control services in Phoenix.",
+  },
+  {
+    id: "img-flyer",
+    url: IMAGES.flyerShield,
+    title: "Comprehensive Desert Pest & Weed Protection",
+    category: "Field Protocol",
+    desc: "Full overview of residential and commercial termite, rodent, general pest, and weed control solutions.",
+  },
+  {
+    id: "img-warehouse",
+    url: IMAGES.warehouseTech,
+    title: "Commercial Warehouse Pallet Treatment",
+    category: "Commercial Facility",
+    desc: "Precision crack and crevice spraying for industrial distribution and storage facilities.",
+  },
+  {
+    id: "img-hazmat",
+    url: IMAGES.twoTechsHazmat,
+    title: "Two-Man Specialized PPE Application Team",
+    category: "Hazmat & Attic",
+    desc: "Clean-suit protective equipment protocol for high-potency treatments and crawlspaces.",
+  },
+  {
+    id: "img-termites",
+    url: IMAGES.termites,
+    title: "Subterranean Termites in Wood Framing",
+    category: "Termite Colony",
+    desc: "Live subterranean termite workers identified inside structural wood prior to liquid barrier treatment.",
+  },
+  {
+    id: "img-roaches",
+    url: IMAGES.roaches,
+    title: "Cockroach Colony Nest Neutralization",
+    category: "Pest Eradication",
+    desc: "Domestic cockroach cluster targeted and neutralized with residual micro-encapsulated formulations.",
+  },
+  {
+    id: "img-cricket",
+    url: IMAGES.cricket,
+    title: "Desert Field Cricket (Scorpion Prey Vector)",
+    category: "Insect Analysis",
+    desc: "Macro inspection of field crickets eliminated to cut off food sources for Arizona bark scorpions.",
+  },
+];

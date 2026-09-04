@@ -1,0 +1,6 @@
+{
+  "name": "Sabra's Termite Pest Weed Control",
+  "description": "Professional termite, pest, and weed control services in Phoenix, Arizona with guaranteed perimeter protection and Arizona State License #9110.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
